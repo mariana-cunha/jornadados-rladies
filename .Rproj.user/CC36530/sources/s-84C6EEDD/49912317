@@ -1,0 +1,27 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1556394179228.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "978070057",
+    "id" : "49912317",
+    "lastKnownWriteTime" : 1556401145,
+    "last_content_update" : 1556401145792,
+    "path" : "C:/Users/pedro/Desktop/meetup R/code/index.R",
+    "project_path" : "code/index.R",
+    "properties" : {
+        "cursorPosition" : "37,0",
+        "docOutlineVisible" : "0",
+        "scrollLine" : "27",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
